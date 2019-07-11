@@ -3,7 +3,7 @@ no_fitness_termination = True
 fitness_criterion = max
 fitness_threshold = 0
 # TODO: increase
-pop_size              = 24
+pop_size              = 100
 reset_on_extinction   = False
 
 [DefaultGenome]
